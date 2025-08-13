@@ -143,3 +143,4 @@ if __name__ == "__main__":
     # 解密
     decrypted = sm4.decrypt(ciphertext)
     print(f"Decrypted: {decrypted.decode()}")
+
